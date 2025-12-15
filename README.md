@@ -1,4 +1,4 @@
-Sí. Et faré un **README clar, curt i pensat per principiants**, sense postureig ni coses innecessàries.
+
 Aquest README està pensat perquè **vosaltres dos sapigueu sempre què fer i què NO fer**.
 
 Pots **copiar-enganxar tal qual** a un fitxer `README.md` a l’arrel del projecte.
@@ -122,4 +122,4 @@ git log --oneline
 
 
 
-Digues-me què vols millorar del README o si vols que el deixem encara més “profe-friendly”.
+
